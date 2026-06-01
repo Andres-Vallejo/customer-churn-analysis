@@ -1,0 +1,9 @@
+customer_id,segment,contract,tenure_months,monthly_fee,support_tickets,churned
+C001,SMB,Monthly,4,39,5,1
+C002,Enterprise,Annual,26,240,1,0
+C003,SMB,Monthly,7,45,4,1
+C004,Midmarket,Annual,18,120,2,0
+C005,Enterprise,Annual,33,260,1,0
+C006,Midmarket,Monthly,9,110,6,1
+C007,SMB,Annual,15,52,2,0
+C008,Midmarket,Annual,24,135,3,0
